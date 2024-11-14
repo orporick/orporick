@@ -1,4 +1,6 @@
-### Hi there 👋
+### Riccardo Giannitrapani
+
+Salve. Questo minuscolo spazio virtuale deve essere risistemato. Per ora non c'è molto.
 
 <!--
 **orporick/orporick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
